@@ -1,0 +1,20 @@
+{
+  "name": "coddodler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreya-10/Coddodler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreya-10/Coddodler/issues"
+  },
+  "homepage": "https://github.com/shreya-10/Coddodler#readme"
+}
