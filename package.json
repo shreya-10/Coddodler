@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start":"node app",
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shreya-10/Coddodler/issues"
   },
-  "homepage": "https://github.com/shreya-10/Coddodler#readme"
+  "homepage": "https://github.com/shreya-10/Coddodler#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
